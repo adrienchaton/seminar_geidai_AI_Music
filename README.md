@@ -9,10 +9,10 @@ contact: bitton@ircam.fr
 
 For information about the previous edition, please refer to the [1st edition webpage](https://tcmml.github.io)
 
-![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/xmm_featured.jpg)
+![Image](https://github.com/adrienchaton/seminar_geidai_AI_Music/blob/master/misc/Mandelbrot.jpeg)
 
 
-<!---
+<!---![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/xmm_featured.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/adrienchaton/seminar_geidai_AI_Music/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
