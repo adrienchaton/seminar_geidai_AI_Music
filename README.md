@@ -8,7 +8,7 @@ It is a collaboration between:
 
 * The University of Tokyo (Todai)
 
-* IRCAM, Paris, France
+* IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique)
 
 contact: bitton@ircam.fr
 
