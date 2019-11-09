@@ -1,4 +1,4 @@
-![Image](https://github.com/adrienchaton/seminar_geidai_AI_Music/blob/master/misc/Mandelbrot.jpeg)
+![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
 
 The program of this seminar is being prepared and will be announced in the beginning of December.
 
