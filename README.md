@@ -7,7 +7,9 @@ IRCAM, Paris, France
 
 contact: bitton@ircam.fr
 
-For information about the previous edition, please refer to: https://tcmml.github.io
+For information about the previous edition, please refer to: [Link](https://tcmml.github.io)
+
+![Image](src)
 
 
 <!---
