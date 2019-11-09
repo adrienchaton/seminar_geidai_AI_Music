@@ -9,7 +9,7 @@ contact: bitton@ircam.fr
 
 For information about the previous edition, please refer to the [1st edition webpage](https://tcmml.github.io)
 
-![Image](./misc/xmm_featured.jpg)
+![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/xmm_featured.jpg)
 
 
 <!---
