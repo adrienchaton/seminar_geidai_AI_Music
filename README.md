@@ -4,11 +4,11 @@ The program of this seminar is being prepared and will be announced in the begin
 
 It is a collaboration between:
 
-⋅⋅* Tokyo University of the Arts (Geidai)
+* Tokyo University of the Arts (Geidai)
 
-⋅⋅* The University of Tokyo (Todai)
+* The University of Tokyo (Todai)
 
-⋅⋅* IRCAM, Paris, France
+* IRCAM, Paris, France
 
 contact: bitton@ircam.fr
 
