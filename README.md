@@ -3,7 +3,12 @@
 # 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
 
 Tokyo University of the Arts, 15th January 2020.
-In collaboration with The University of Tokyo and IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique).
+
+In collaboration with:
+
+* The University of Tokyo
+
+* IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique).
 
 ## Outline
 
