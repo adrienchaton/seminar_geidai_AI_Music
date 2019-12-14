@@ -2,6 +2,13 @@
 
 ## Outline
 
+Machine learning and deep neural networks have thrived through the last decades on increasing computational ressources, allowing for a steady development of new concepts and a broad range of applications extending and complementing human knowledge. Computer vision and text processing are prominent topics in which many algorithms have been tested. These generalize to a certain extent to music language and sound, which hold some key specificities that have themselves established as new reference topics to AI research.
+
+To address these questions, a constant dialogue has florished accross modalities. Pulling from general to music oriented developements and back. Successfully specifying some of these breakthroughs to sound domain and raising new challenges along with solutions that directly emerged from the intrinsic nature of sound. Be it on the level of music theory and signal processing, or to their resulting psychoacoustic qualities.
+
+Given this extensive corpus of research and technologies, that is constantly refining, remains yet a challenge in implementing meaningful interactions for human creativity and production, such as applying to music composition and sound design.
+
+Through this pannel of pre
 
 ## Program
 
