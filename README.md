@@ -18,7 +18,7 @@ To address these questions, a constant dialogue has florished accross modalities
 
 Given this extensive corpus of research and technologies, that is constantly refining, remains yet a challenge in implementing meaningful interactions for human creativity and production, such as applying to music composition and sound design.
 
-This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound
+This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the potentialities that are arising at the interesection of their fields and beyond.
 
 ## Program
 
