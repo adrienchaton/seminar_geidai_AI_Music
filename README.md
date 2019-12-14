@@ -1,5 +1,7 @@
 ![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
 
+# 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
+
 ## Outline
 
 Machine learning and deep neural networks have thrived through the last decades on increasing computational ressources, allowing for a steady development of new concepts and a broad range of applications extending and complementing human knowledge. Computer vision and text processing are prominent topics in which many algorithms have been tested. These generalize to a certain extent to music language and sound, which hold some key specificities that have themselves established as new reference topics to AI research.
@@ -8,7 +10,7 @@ To address these questions, a constant dialogue has florished accross modalities
 
 Given this extensive corpus of research and technologies, that is constantly refining, remains yet a challenge in implementing meaningful interactions for human creativity and production, such as applying to music composition and sound design.
 
-Through this pannel of pre
+This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound
 
 ## Program
 
