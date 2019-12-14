@@ -1,5 +1,13 @@
 ![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
 
+## Outline
+
+
+
+
+
+
+
 The program of this seminar is being prepared and will be announced in the beginning of December.
 
 It is a collaboration between:
