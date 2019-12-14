@@ -27,7 +27,7 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 ## Details
 
-**Place:** Tokyo University of the Arts, Department of Musical Creativity and the Environment, <u>Senju Campus</u>, The 1st conference room
+**Place:** Tokyo University of the Arts, Department of Musical Creativity and the Environment, <ins>Senju Campus</ins>, The 1st conference room
 
 
 
