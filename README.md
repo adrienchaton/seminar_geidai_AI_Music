@@ -2,6 +2,8 @@
 
 # 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
 
+Tokyo University of the Arts, 15th January 2020.
+
 ## Outline
 
 Machine learning and deep neural networks have thrived through the last decades on increasing computational ressources, allowing for a steady development of new concepts and a broad range of applications extending and complementing human knowledge. Computer vision and text processing are prominent topics in which many algorithms have been tested. These generalize to a certain extent to music language and sound, which hold some key specificities that have themselves established as new reference topics to AI research.
