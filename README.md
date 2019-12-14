@@ -3,11 +3,14 @@
 ## Outline
 
 
+## Program
+
+
+## Details
 
 
 
-
-
+<!---
 The program of this seminar is being prepared and will be announced in the beginning of December.
 
 It is a collaboration between:
@@ -21,7 +24,7 @@ It is a collaboration between:
 contact: bitton@ircam.fr
 
 For information about the previous edition, please refer to the [1st edition webpage](https://tcmml.github.io)
-
+-->
 
 <!---
 
