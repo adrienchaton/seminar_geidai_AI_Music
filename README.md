@@ -12,11 +12,13 @@ In collaboration with:
 
 ## Outline
 
-Machine learning and deep neural networks have thrived through the last decades on increasing computational ressources, allowing for a steady development of new concepts and a broad range of applications extending and complementing human knowledge. Computer vision and text processing are prominent topics in which many algorithms have been tested. These generalize to a certain extent to music language and sound, which hold some key specificities that have themselves established as new reference topics to AI research.
+Machine learning and deep neural networks have thrived through the last decades on increasing computational ressources, allowing for a steady development of new concepts with a broad range of applications extending and complementing human knowledge. Computer vision and text processing are prominent topics in which many algorithms have been tested. They generalize to a certain extent to music language and sound, which nonetheless hold some key specificities that have themselves established as new reference topics to AI research.
+
+The knowledge and experience of music are grounded into several layers of information. In the symbolic domain, one can account for compositional structures. However it is abstracted from the sound content and thus unmatched with a range of contemporary practices and performances that focus on sound production and perception. Forming and analysing consistent sctrutures accross scales ranging from streams of waveform samples (~ miliseconds) to musical events and pieces (seconds to minutes) has drawn many research efforts to close a gap, that is still open.
 
 To address these questions, a constant dialogue has florished accross modalities. Pulling from general to music oriented developements and back. Successfully specifying some of these breakthroughs to sound domain and raising new challenges along with solutions that directly emerged from the intrinsic nature of sound. Be it on the level of music theory and signal processing, or to their resulting psychoacoustic qualities.
 
-Given this extensive corpus of research and technologies, that is constantly refining, remains yet a challenge in implementing meaningful interactions for human creativity and production, such as applying to music composition and sound design.
+Given this extensive corpus of research and technologies, that is constantly refining, remains yet a challenge in implementing meaningful interactions for human creativity and production, such as applying to music composition and sound design. How will generative neural networks integrate in our practices ? How can AI enrich human art and foster new paradigms for music ?
 
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
