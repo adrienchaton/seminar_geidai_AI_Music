@@ -1,5 +1,3 @@
-![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
-
 <!---
 # 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
 -->
@@ -11,6 +9,8 @@ In collaboration with:
 * The University of Tokyo
 
 * IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique).
+
+![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
 
 ## Outline
 
