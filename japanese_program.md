@@ -1,5 +1,5 @@
 <!---
-render and export with https://www.markdowntopdf.com
+render and export with https://md2pdf.netlify.com (https://www.markdowntopdf.com does not support japanese characters)
 --->
 
 ## Japanese version of the program of the 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
