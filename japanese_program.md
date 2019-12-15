@@ -10,21 +10,23 @@ render and export with https://www.markdowntopdf.com
 
 これはAIをステージで用いながらの演奏ではなく、ディープ・ラーニングを用いて作曲し、楽器の演奏者に演奏をしてもらう例である。このために、以下の問題を提起することができる。ディープ・ラーニングは作曲の進歩に何らかの影響を及ばしてくれているのだろうか？ 作曲家の立場で、あくまでも音楽の発展のためにAIがどのような使われ方をすべきか? 純粋に、音楽のみのためにディープ・ラーニングを用いてどのような新たなアイデアを見つけて作曲できるか？ むしろ新たなアイデアに結びつけることができるか？AIの一部として語られているアルゴリズムも、それを用いて、これまでのアルゴリズミック・コンポジションを本当の意味で超えられるのだろうか？ これらはいずれもディープ・ラーニングを用いて何らかの形で芸術の発展を試みることが主眼となっている。
 
-**Jie Man:** Introduction of bach library in Max/MSP
+**満潔:** Max/MSPのbachライブラリーについて
 
-Introduction of a library for the Max/Msp environment named bach, by which the two elements — computer-aided composition and real-time environment can be combined.  The usage and practical examples of the bach library will also be discussed.
+Max/MSPの中のbachライブラリーは、コンピューター支援作曲とリアルタイム環境、この二つの要素を強く結びつけた便利なツールである。今回は、bachライブラリーに関する使用方法と実用例について説明を行う。
 
-**Shinae Kang:** A discussion of works created with the aid of AI and AI research trends for music.
+**姜信愛:** 人工知能技術を用いた芸術作品の紹介と研究の動向について
 
-Shinae Kang introduces artworks created with the aid of AI and AI research trends for music. Plus, she talks about the future possibilities of AI in the music area.
+ー最近の人工知能(AI)を利活用した芸術作品を紹介しつつ、今後、人工知能(AI)の利活用が拡がっていく可能性について話す。
 
-**Jinwoong Kim:** Orchidea, An intelligent assisted orchestration tool.
+**Jinwoong Kim:** Orchidea、インテリジェント補助オーケストレーションツール
 
-Jinwoong Kim talks about Orchidea, which is an assisted orchestration tool developed in IRCAM. He introduces concepts of Orchidea and which AI techniques Orchidea uses.
+IRCAMで開発されたオーケストレーション補助ツール"オルキディア"について話す。オーキディアの概念と、オーキディアが使用する人工知能の技術を紹介する。
 
-**Sachi Ihara:** AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--
+**谷原佐智:** AI作曲と身体性　〜作曲するバーチャルシンガーから世界のAI作曲ロボットまで〜
 
-Currently, like most artificial intelligence has no physicality, most AI composition is the thing that is replaced the composer's brain artificially. However, researches, that may be called "AI music body agent" provided with both intelligence and body for the musical composition, are progressing in the world recently. Therefore, entitling "AI composition and physicality", I would like to talk about the possibilities of artificial intelligence that connects the composer's intelligence and his body, such as AI composer-musician robots around the world.
+現在、人工知能のほとんどは身体性を持っていない。AI作曲においても、作曲家の頭脳を人工的に置き換えたものが大半である。
+しかし昨今、作曲する知能と身体の両者を備えた「AI音楽身体エージェント」とでも呼べる研究が世界で進展しつつある。
+そこで、「AI作曲と身体性」と題し、世界のAI作曲演奏ロボットなど、作曲する知能と身体とを結ぶ人工知能の可能性についてお話ししたい。
 
 **Philippe Esling:** Modeling musical creativity with variational inference and probabilistic generative models.
 
