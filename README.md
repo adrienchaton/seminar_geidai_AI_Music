@@ -1,6 +1,8 @@
 ![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
 
+<!---
 # 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
+-->
 
 Tokyo University of the Arts, 15th of January 2020.
 
