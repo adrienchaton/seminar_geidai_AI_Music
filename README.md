@@ -2,7 +2,7 @@ In collaboration with:
 
 * The University of Tokyo
 
-* IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique).
+* IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique).\
 
 <p align="center"> <img src="https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg" width="400" height="300"> </p>
 
