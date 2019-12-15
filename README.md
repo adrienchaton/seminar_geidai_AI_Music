@@ -12,7 +12,7 @@ In collaboration with:
 
 ## Outline
 
-Machine learning and deep neural networks have thrived through the last decades on increasing computational ressources, allowing for a steady development of new concepts with a broad range of applications extending and complementing human knowledge. Computer vision and text processing are prominent topics in which many algorithms have been tested. They generalize to a certain extent to music language and sound, which nonetheless hold some key specificities that have themselves established as new reference topics to AI research.
+Machine learning and deep neural networks have thrived through the last decades on increasing computational ressources, allowing for a steady development of new concepts along with a broad range of applications extending and complementing human knowledge. Computer vision and text processing are prominent topics in which many algorithms have been tested. They generalize to a certain extent to music language and sound, which nonetheless hold some key specificities that have themselves established as new reference topics to AI research.
 
 The knowledge and experience of music are grounded into several layers of information. In the symbolic domain, one can account for compositional structures. However it is abstracted from the sound content and thus unmatched with a range of contemporary practices and performances that focus on sound production and perception. Forming and analysing consistent sctrutures accross scales ranging from streams of waveform samples (~ miliseconds) to musical events and pieces (seconds to minutes) has drawn many research efforts to close a gap, that is still open.
 
