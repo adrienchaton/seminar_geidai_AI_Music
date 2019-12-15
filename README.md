@@ -2,7 +2,7 @@
 
 # 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
 
-Tokyo University of the Arts, 15th January 2020.
+Tokyo University of the Arts, 15th of January 2020.
 
 In collaboration with:
 
@@ -27,9 +27,11 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 ## Details
 
+**Date and time:** The 15th of January 2020, from 16h30 (<ins>17h, start of the 1st. presentation</ins>) until 22h.
+
 **Place:** Tokyo University of the Arts, Department of Musical Creativity and the Environment, <ins>Senju Campus</ins>, The 1st conference room
 
-[access to Senju Campus](https://www.geidai.ac.jp/english/access#SenjuCampus)
+[Access to Senju Campus](https://www.geidai.ac.jp/english/access#SenjuCampus)
 
 
 
