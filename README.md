@@ -52,6 +52,8 @@ Programmed speakers are:
 
 * ...
 
+[Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
+
 ## Details
 
 **Date and time:** The 15th of January 2020, from 16h30 until 22h. <ins>Start of the first presentation at 17h</ins>.
