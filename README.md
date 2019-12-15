@@ -1,3 +1,11 @@
+Tokyo University of the Arts, 15th of January 2020.
+
+In collaboration with:
+
+* The University of Tokyo
+
+* IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique).
+
 ![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
 
 ## Outline
