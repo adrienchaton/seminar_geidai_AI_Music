@@ -34,9 +34,23 @@ Titles, abstracts and schedule of the program are being prepared.
 
 Programmed speakers are:
 
-* A
+* Suguru Goto
 
-* B
+* Philippe Esling
+
+* Daisuke Saito
+
+* Naotake Masuda
+
+* Adrien Bitton
+
+* 1 PhD from Geidai
+
+* Orchidea tutorial
+
+* Bach tutorial
+
+* ...
 
 ## Details
 
