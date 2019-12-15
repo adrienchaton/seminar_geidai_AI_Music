@@ -34,6 +34,8 @@ Titles, abstracts and schedule of the program are being prepared.
 
 [English program (under preparation)](https://drive.google.com/file/d/1r2s5qw6tmqujOYshNpy4XJQDB0eqLJLN/view?usp=sharing)
 
+[Japanese program (under preparation)](https://drive.google.com/file/d/1N6GI9itQTu5kZH7UKyq5WbXBqB7xdd7l/view?usp=sharing)
+
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
 
 ## Details
