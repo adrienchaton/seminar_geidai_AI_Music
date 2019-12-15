@@ -33,6 +33,13 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 [Access to Senju Campus](https://www.geidai.ac.jp/english/access#SenjuCampus)
 
+Presentations will be given in English, however, Q&A may be possible in Japanese. We invite the discussions to be continued around a table in a neighboring Izakaya after 22h.
+
+Following this seminar, a concert is being prepared for Februar by the Department of Musical Creativity and will be announced.
+
+For information about the previous edition, please refer to the [1st edition webpage](https://tcmml.github.io).
+
+**Contacts:** bitton@ircam.fr / goto.suguru@ms.geidai.ac.jp
 
 
 <!---
