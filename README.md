@@ -60,6 +60,8 @@ Programmed speakers are:
 
 **Place:** Tokyo University of the Arts, Department of Musical Creativity and the Environment, <ins>Senju Campus</ins>, The 1st conference room
 
+〒 120-0034, 1-25-1 Senju, Adachi-ku, Tokyo.
+
 [Access to Senju Campus](https://www.geidai.ac.jp/english/access#SenjuCampus)
 
 Presentations will be given in English, however, Q&A may be possible in Japanese. We invite the discussions to be continued around a table in a neighboring Izakaya after 22h.
