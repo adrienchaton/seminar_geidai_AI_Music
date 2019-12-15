@@ -32,25 +32,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 **17h-22h:** Presentations and Q&A
 
-Programmed speakers are:
-
-* Suguru Goto
-
-* Philippe Esling
-
-* Daisuke Saito
-
-* Naotake Masuda
-
-* Adrien Bitton
-
-* 1 PhD from Geidai
-
-* Orchidea tutorial
-
-* Bach tutorial
-
-* ...
+[English program (under preparation)](https://drive.google.com/file/d/1r2s5qw6tmqujOYshNpy4XJQDB0eqLJLN/view?usp=sharing)
 
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
 
