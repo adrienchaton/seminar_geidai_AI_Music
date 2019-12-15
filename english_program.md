@@ -1,6 +1,6 @@
 layout: page
 title: "English Program"
-permalink: /eng
+permalink: /eng/
 
 ## English program
 
