@@ -1,5 +1,3 @@
-Tokyo University of the Arts, 15th of January 2020.
-
 In collaboration with:
 
 * The University of Tokyo
