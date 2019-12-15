@@ -1,6 +1,5 @@
 <!---
-render and export as:
-https://gitprint.com/adrienchaton/seminar_geidai_AI_Music/edit/master/english_program.md
+render and export with https://www.markdowntopdf.com
 --->
 
 ## English version of the program of the 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
