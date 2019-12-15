@@ -6,13 +6,11 @@ In collaboration with:
 
 &nbsp;
 
-&nbsp;
 
 <p align="center"> <img src="https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg" width="533" height="400"> </p>
 
 &nbsp;
 
-&nbsp;
 
 ## Outline
 
