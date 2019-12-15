@@ -26,6 +26,17 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 ## Program
 
+Titles, abstracts and schedule of the program are being prepared.
+
+**16h30:** Welcome coffee
+
+**17h-22h:** Presentations and Q&A
+
+Programmed speakers are:
+
+* A
+
+* B
 
 ## Details
 
