@@ -4,7 +4,7 @@ In collaboration with:
 
 * IRCAM (Paris, France - Institut de Recherche et Coordination Acoustique/Musique).
 
-![Image]{width:400px;height:300px;}(https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg)
+![Image](https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg){width:400px;height:300px;}
 
 ## Outline
 
