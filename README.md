@@ -27,7 +27,7 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 ## Details
 
-**Date and time:** The 15th of January 2020, from 16h30 until 22h. <ins>17h, start of the first presentation</ins>.
+**Date and time:** The 15th of January 2020, from 16h30 until 22h. <ins>Start of the first presentation at 17h</ins>.
 
 **Place:** Tokyo University of the Arts, Department of Musical Creativity and the Environment, <ins>Senju Campus</ins>, The 1st conference room
 
