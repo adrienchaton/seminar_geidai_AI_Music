@@ -32,15 +32,15 @@ Titles, abstracts and schedule of the program are being prepared.
 
 **17h-22h:** Presentations and Q&A with:
 
-* Suguru Goto: *The Technique of Contemporary Music Composition with using Deep Learning*
-* Jie Man: *Introduction of bach library in Max/MSP*
-* Shinae Kang: *A discussion of works created with the aid of AI and AI research trends for music*
-* Jinwoong Kim: *Orchidea, An intelligent assisted orchestration tool*
-* Sachi Ihara: *AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
-* Philippe Esling: *Modeling musical creativity with variational inference and probabilistic generative models*
-* Daisuke Saito: *Modeling vocals in music*
-* Naotake Masuda: *FlowSynth model for parameter inference and meta/semantic control of digital synthesizers (VST)*
-* Adrien Bitton: *Neural granular sound synthesis for raw waveform generation*
+* Suguru Goto (Tokyo University of the Arts): *The Technique of Contemporary Music Composition with using Deep Learning*
+* Jie Man (Tokyo University of the Arts): *Introduction of bach library in Max/MSP*
+* Shinae Kang (Tokyo University of the Arts): *A discussion of works created with the aid of AI and AI research trends for music*
+* Jinwoong Kim (Tokyo University of the Arts): *Orchidea, An intelligent assisted orchestration tool*
+* Sachi Ihara (Tokyo University of the Arts): *AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
+* Philippe Esling (IRCAM): *Modeling musical creativity with variational inference and probabilistic generative models*
+* Daisuke Saito (The University of Tokyo): *Modeling vocals in music*
+* Naotake Masuda (The University of Tokyo): *FlowSynth model for parameter inference and meta/semantic control of digital synthesizers (VST)*
+* Adrien Bitton (IRCAM/The University of Tokyo): *Neural granular sound synthesis for raw waveform generation*
 
 [English program (under preparation)](https://drive.google.com/file/d/1ioBLOwZ5pccOKJCbBVE54J64o1aA2CiB/view?usp=sharing)
 
