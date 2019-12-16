@@ -24,6 +24,8 @@ Given this extensive corpus of research and technologies, that is constantly ref
 
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
+&nbsp;
+
 ## Program
 
 Titles, abstracts and schedule of the program are being prepared.
@@ -68,11 +70,15 @@ Titles, abstracts and schedule of the program are being prepared.
 
 *Neural granular sound synthesis for raw waveform generation*
 
+&nbsp;
+
 [English program (under preparation)](https://drive.google.com/file/d/1ioBLOwZ5pccOKJCbBVE54J64o1aA2CiB/view?usp=sharing)
 
 [Japanese program (under preparation)](https://drive.google.com/file/d/1N6GI9itQTu5kZH7UKyq5WbXBqB7xdd7l/view?usp=sharing)
 
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
+
+&nbsp;
 
 ## Details
 
@@ -89,6 +95,8 @@ Presentations will be given in English, however, Q&A may be possible in Japanese
 Following this seminar, a concert is being prepared for Februar by the Department of Musical Creativity and will be announced.
 
 For information about the previous edition, please refer to the [1st edition webpage](https://tcmml.github.io).
+
+&nbsp;
 
 **Contacts:** bitton@ircam.fr / goto.suguru@ms.geidai.ac.jp
 
