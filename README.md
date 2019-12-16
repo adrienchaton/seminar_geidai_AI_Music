@@ -32,8 +32,10 @@ Titles, abstracts and schedule of the program are being prepared.
 
 **17h-22h:** Presentations and Q&A with:
 
-* Suguru Goto (Tokyo University of the Arts) &nbsp;
+* Suguru Goto (Tokyo University of the Arts)
+
 *The Technique of Contemporary Music Composition with using Deep Learning*
+
 * Jie Man (Tokyo University of the Arts): *Introduction of bach library in Max/MSP*
 * Shinae Kang (Tokyo University of the Arts): *A discussion of works created with the aid of AI and AI research trends for music*
 * Jinwoong Kim (Tokyo University of the Arts): *Orchidea, An intelligent assisted orchestration tool*
