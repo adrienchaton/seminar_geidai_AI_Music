@@ -30,7 +30,17 @@ Titles, abstracts and schedule of the program are being prepared.
 
 **16h30:** Welcome coffee
 
-**17h-22h:** Presentations and Q&A
+**17h-22h:** Presentations and Q&A with:
+
+* Suguru Goto: *The Technique of Contemporary Music Composition with using Deep Learning*
+* Jie Man: *Introduction of bach library in Max/MSP*
+* Shinae Kang: *A discussion of works created with the aid of AI and AI research trends for music*
+* Jinwoong Kim: *Orchidea, An intelligent assisted orchestration tool*
+* Sachi Ihara: *AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
+* Philippe Esling: *Modeling musical creativity with variational inference and probabilistic generative models*
+* Daisuke Saito: *Modeling vocals in music*
+* Naotake Masuda: *FlowSynth model for parameter inference and meta/semantic control of digital synthesizers (VST)*
+* Adrien Bitton: *Neural granular sound synthesis for raw waveform generation*
 
 [English program (under preparation)](https://drive.google.com/file/d/1r2s5qw6tmqujOYshNpy4XJQDB0eqLJLN/view?usp=sharing)
 
