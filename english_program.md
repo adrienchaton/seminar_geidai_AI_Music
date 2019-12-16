@@ -33,3 +33,5 @@ Currently, like most artificial intelligence has no physicality, most AI composi
 **Naotake Masuda:** FlowSynth model for parameter inference and meta/semantic control of digital synthesizers (VST).
 
 **Adrien Bitton:** Neural granular sound synthesis for raw waveform generation.
+
+Granular synthesis is a broadly used technique for sound synthesis. Its underlying concepts relate to generative neural networks, which can implement it and address some traditional limitations of the technique. It is an avenue of research for raw waveform generation that has not been yet studied in the machine learning community. Introducing a Variational Auto-Encoder model suited to this extent, we will discuss the interpretability of its components and report experiments for musical note and drum generation as well as texture synthesis and non-musical audio generation.
