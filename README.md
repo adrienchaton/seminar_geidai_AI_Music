@@ -52,7 +52,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 *AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
 
-* Philippe Esling (IRCAM)
+* Philippe Esling (IRCAM/The University of Tokyo)
 
 *Modeling musical creativity with variational inference and probabilistic generative models*
 
