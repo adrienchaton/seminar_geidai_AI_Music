@@ -56,7 +56,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 * Philippe Esling (IRCAM/The University of Tokyo)
 
-*Modeling musical creativity with variational inference and probabilistic generative models*
+*ACIDS - Artificial Creative Intelligence*
 
 * Daisuke Saito (The University of Tokyo)
 
