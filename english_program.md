@@ -26,7 +26,9 @@ Jinwoong Kim talks about Orchidea, which is an assisted orchestration tool devel
 
 Currently, like most artificial intelligence has no physicality, most AI composition is the thing that is replaced the composer's brain artificially. However, researches, that may be called "AI music body agent" provided with both intelligence and body for the musical composition, are progressing in the world recently. Therefore, entitling "AI composition and physicality", I would like to talk about the possibilities of artificial intelligence that connects the composer's intelligence and his body, such as AI composer-musician robots around the world.
 
-**Philippe Esling:** Modeling musical creativity with variational inference and probabilistic generative models.
+**Philippe Esling:** ACIDS - Artificial Creative Intelligence.
+
+The Artificial Creative Intelligence and Data Science (ACIDS) team at IRCAM seeks to model musical creativity by targeting the properties of audio mixtures. This studies the intersection between symbol (score) and signal (audio) representations to understand and control the manifolds of musical information. After introducing the framework of modeling creativity through mathematical probabilities, we will discuss the question of disentangling manifolds of factors of audio variation. We will detail several models and musical pieces produced by our team, allowing to travel through topological spaces of audio, working with audio waveforms and scores alike and controlling audio synthesizers with our voice.
 
 **Daisuke Saito:** Modeling vocals in music.
 
