@@ -22,7 +22,7 @@ Shinae Kang introduces artworks created with the aid of AI and AI research trend
 
 Jinwoong Kim talks about Orchidea, which is an assisted orchestration tool developed in IRCAM. He introduces concepts of Orchidea and which AI techniques Orchidea uses.
 
-**Sachi Ihara:** AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--
+**Sachi Tanihara:** AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--
 
 Currently, like most artificial intelligence has no physicality, most AI composition is the thing that is replaced the composer's brain artificially. However, researches, that may be called "AI music body agent" provided with both intelligence and body for the musical composition, are progressing in the world recently. Therefore, entitling "AI composition and physicality", I would like to talk about the possibilities of artificial intelligence that connects the composer's intelligence and his body, such as AI composer-musician robots around the world.
 
