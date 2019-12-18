@@ -50,7 +50,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 *Orchidea, An intelligent assisted orchestration tool*
 
-* Sachi Ihara (Tokyo University of the Arts)
+* Sachi Tanihara (Tokyo University of the Arts)
 
 *AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
 
