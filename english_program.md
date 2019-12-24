@@ -6,11 +6,11 @@ render and export with https://www.markdowntopdf.com
 
 *This is a preliminary and unordered program of the seminar which will be completed and scheduled.*
 
-**Suguru Goto:** The Technique of Contemporary Music Composition with using Deep Learning
+**Suguru Goto:** The Technique of Contemporary Music Composition with using Deep Learning.
 
 As a matter of fact, this composition is not an example of performing while using AI on the stage, but rather an example of using Deep Learning to compose and intends an instrumental performer to play it with a score. In order to do this, one may raise the following questions:  Can Deep Learning really influence on the progress of composition? For a compositional use, how should AI be used for the development of music? What kinds of new ideas can be explored to compose with Deep Learning? Rather, can it lead to new ideas? Can the algorithm that is regarded as a part of AI be used to truly surpass the traditional algorithmic composition?
 
-**Jie Man:** Introduction of bach library in Max/MSP
+**Jie Man:** Introduction of bach library in Max/MSP.
 
 Introduction of a library for the Max/Msp environment named bach, by which the two elements — computer-aided composition and real-time environment can be combined.  The usage and practical examples of the bach library will also be discussed.
 
@@ -32,7 +32,9 @@ The Artificial Creative Intelligence and Data Science (ACIDS) team at IRCAM seek
 
 **Daisuke Saito:** Modeling vocals in music.
 
-**Naotake Masuda:** FlowSynth model for parameter inference and meta/semantic control of digital synthesizers (VST).
+**Naotake Masuda:** Audio Synthesizer Control using Deep Generative Models and Normalizing Flows.
+
+Audio synthesizers have become a staple in modern day music production. However, synthesizers have numerous parameters that are complexly intertwined. Thus, producers often find it difficult to produce a specific sound with a synthesizer. We propose a Variational Auto-Encoder(VAE) based model which allows us to efficiently perform inference of parameters and provide a more intuitive control for synthesizers. We report our results on several VST synthesizers and discuss the challenges in modeling different kinds of synthesizers.
 
 **Adrien Bitton:** Neural granular sound synthesis for raw waveform generation.
 
