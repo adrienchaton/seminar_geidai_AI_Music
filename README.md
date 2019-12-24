@@ -64,7 +64,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 * Naotake Masuda (The University of Tokyo)
 
-*FlowSynth model for parameter inference and meta/semantic control of digital synthesizers (VST)*
+*Audio Synthesizer Control using Deep Generative Models and Normalizing Flows*
 
 * Adrien Bitton (IRCAM/The University of Tokyo)
 
