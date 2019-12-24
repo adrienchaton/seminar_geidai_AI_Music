@@ -24,6 +24,8 @@ Given this extensive corpus of research and technologies, that is constantly ref
 
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
+[Japanese outline and program (under preparation)](https://drive.google.com/file/d/1N6GI9itQTu5kZH7UKyq5WbXBqB7xdd7l/view?usp=sharing)
+
 &nbsp;
 
 ## Program
@@ -72,9 +74,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 &nbsp;
 
-[English program (under preparation)](https://drive.google.com/file/d/1ioBLOwZ5pccOKJCbBVE54J64o1aA2CiB/view?usp=sharing)
-
-[Japanese program (under preparation)](https://drive.google.com/file/d/1N6GI9itQTu5kZH7UKyq5WbXBqB7xdd7l/view?usp=sharing)
+[English program (under preparation)](https://drive.google.com/file/d/1Oth0-Ocoi_Lp-qfrAUL10kEkPh7H23Tt/view?usp=sharing)
 
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
 
