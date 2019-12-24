@@ -74,7 +74,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 &nbsp;
 
-[English program (under preparation)](https://drive.google.com/file/d/1Oth0-Ocoi_Lp-qfrAUL10kEkPh7H23Tt/view?usp=sharing)
+[English program (under preparation)](https://drive.google.com/file/d/1Oth0-Ocoi_Lp-qfrAUL10kEkPh7H23Tt)
 
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
 
