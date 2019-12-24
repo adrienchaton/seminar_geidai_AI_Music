@@ -24,7 +24,7 @@ Given this extensive corpus of research and technologies, that is constantly ref
 
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
-[Japanese outline and program (under preparation)](https://drive.google.com/file/d/1N6GI9itQTu5kZH7UKyq5WbXBqB7xdd7l/view?usp=sharing)
+[Japanese outline and program (under preparation)](https://drive.google.com/file/d/1g5GVe6sQalAifCi2mJ8dOGL3hypQCf2R/view?usp=sharing)
 
 &nbsp;
 
