@@ -28,10 +28,12 @@ IRCAMで開発されたオーケストレーション補助ツール"オルキ�
 しかし昨今、作曲する知能と身体の両者を備えた「AI音楽身体エージェント」とでも呼べる研究が世界で進展しつつある。
 そこで、「AI作曲と身体性」と題し、世界のAI作曲演奏ロボットなど、作曲する知能と身体とを結ぶ人工知能の可能性についてお話ししたい。
 
-**Philippe Esling:** Modeling musical creativity with variational inference and probabilistic generative models.
+**Philippe Esling:** ACIDS - Artificial Creative Intelligence
 
 **Daisuke Saito:** Modeling vocals in music.
 
-**Naotake Masuda:** FlowSynth model for parameter inference and meta/semantic control of digital synthesizers (VST).
+**Naotake Masuda:** 深層生成モデルとNormalizing Flowsによるシンセサイザーの制御
+
+シンセサイザーは現代の音楽制作において欠かせないツールとなっている。一方で、シンセサイザーはパラメータが多く、パラメータ間の関係も複雑である。そのため、シンセサイザーのによって思い通りの音を出すことは困難である。本研究ではより効率的にパラメータの推定を行い、直感的なシンセサイザーの操作を可能にする、変分オートエンコーダ(VAE)ベースのモデルを提案する。最後に、複数のVSTシンセサイザーの制御についての結果を示し、様々なシンセサイザーのモデリングにおける課題について論じる。
 
 **Adrien Bitton:** Neural granular sound synthesis for raw waveform generation.
