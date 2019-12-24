@@ -30,6 +30,8 @@ IRCAMで開発されたオーケストレーション補助ツール"オルキ�
 
 **Philippe Esling:** ACIDS - Artificial Creative Intelligence
 
+The Artificial Creative Intelligence and Data Science (ACIDS) team at IRCAM seeks to model musical creativity by targeting the properties of audio mixtures. This studies the intersection between symbol (score) and signal (audio) representations to understand and control the manifolds of musical information. After introducing the framework of modeling creativity through mathematical probabilities, we will discuss the question of disentangling manifolds of factors of audio variation. We will detail several models and musical pieces produced by our team, allowing to travel through topological spaces of audio, working with audio waveforms and scores alike and controlling audio synthesizers with our voice.
+
 **Daisuke Saito:** Modeling vocals in music.
 
 **Naotake Masuda:** 深層生成モデルとNormalizing Flowsによるシンセサイザーの制御
@@ -37,3 +39,5 @@ IRCAMで開発されたオーケストレーション補助ツール"オルキ�
 シンセサイザーは現代の音楽制作において欠かせないツールとなっている。一方で、シンセサイザーはパラメータが多く、パラメータ間の関係も複雑である。そのため、シンセサイザーのによって思い通りの音を出すことは困難である。本研究ではより効率的にパラメータの推定を行い、直感的なシンセサイザーの操作を可能にする、変分オートエンコーダ(VAE)ベースのモデルを提案する。最後に、複数のVSTシンセサイザーの制御についての結果を示し、様々なシンセサイザーのモデリングにおける課題について論じる。
 
 **Adrien Bitton:** Neural granular sound synthesis for raw waveform generation.
+
+Granular synthesis is a broadly used technique for sound synthesis. Its underlying concepts relate to generative neural networks, which can implement it and address some traditional limitations of the technique. It is an avenue of research for raw waveform generation that has not been yet studied in the machine learning community. Introducing a Variational Auto-Encoder model suited to this extent, we will discuss the interpretability of its components and report experiments for musical note and drum generation as well as texture synthesis and non-musical audio generation.
