@@ -23,6 +23,8 @@ Given this extensive corpus of research and technologies, that is constantly ref
 
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
+&nbsp;
+
 ---
 
 人工知能と作曲2
@@ -116,9 +118,9 @@ Following this seminar, a concert is being prepared for Februar by the Departmen
 
 For information about the previous edition, please refer to the [1st edition webpage](https://tcmml.github.io).
 
-&nbsp;
-
 **Contacts:** bitton@ircam.fr / goto.suguru@ms.geidai.ac.jp
+
+&nbsp;
 
 ---
 
