@@ -24,9 +24,26 @@ Given this extensive corpus of research and technologies, that is constantly ref
 
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
-[Japanese outline and program (under preparation)](https://drive.google.com/file/d/1g5GVe6sQalAifCi2mJ8dOGL3hypQCf2R)
+&nbsp;
+
+
+人工知能と作曲2
+研究会
+東京芸術大学 千住キャンパス 
+2020年1月19日
+
+コラボレーション：東京大学、IRCAM
+
+概要
+
+機械学習とディープニューラルネットワークは、近年、益々性能を高めておりしており、人間の知識を拡張してくれるだけでなく、新しい概念による開発をも可能にしてくれている。コンピュータービジョンとテキスト処理は、既に広く知られている研究であろう。しかし、作曲と音響に関する人工知能の研究に関しては新たな課題である。
+音楽に関する知識と経験は、様々な分野にまたがっている。作曲構造においては、音楽理論により説明することができる。 一方で、サウンドに関しては抽象的なものであるため、その生成と知覚に焦点を当てた範囲を考慮すると、前者とは随分異なるものと言えよう。 最近では、ミリ秒単位の波形サンプルから音楽イベントや曲（数秒から数分）に至るまで、スケール全体で一貫した構造を形成および分析するための多くの研究が行われている。
+これにより、異なる分野間で盛んに対話が行われるようになった。 一般的な人工知能ではなく、音楽側の視点に立ち、 サウンドの本質的な性質により、新しい課題を提起するに至った。それは、音楽理論、信号処理、音響心理学まで、様々な分野に渡る。
+この研究のためには大規模な技術が必要とされる課題に加えて、音楽の作曲やサウンドデザインへの応用など、人間の創造性と実践としての創作のために、意義のあるインタラクションを実装する課題は依然として残っている。果たして、ジェネラティブニューラルネットワークは私たちの実践をどのように統合してくれるのか？AIはどのようにして人間の芸術を豊かにし、音楽の新しいパラダイムを提示できるのか？ 
+この研究会では、コンピューターサイエンスと作曲家側の両観点から、音楽とサウンドに適用される人工知能の最新の開発について再考する。 コンピュータサイエンスと音楽の専門家に、それぞれの分野にて共通する課題とその可能性についても議論する
 
 &nbsp;
+
 
 ## Program
 
