@@ -6,7 +6,6 @@ In collaboration with:
 
 &nbsp;
 
-
 <p align="center"> <img src="https://raw.githubusercontent.com/adrienchaton/seminar_geidai_AI_Music/master/misc/Mandelbrot.jpeg" width="533" height="400"> </p>
 
 &nbsp;
@@ -25,7 +24,6 @@ Given this extensive corpus of research and technologies, that is constantly ref
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
 &nbsp;
-
 
 人工知能と作曲2
 研究会
@@ -97,6 +95,11 @@ Titles, abstracts and schedule of the program are being prepared.
 
 &nbsp;
 
+[発表者](https://drive.google.com/file/d/1ebtbDYC9mbe5JxWUHgNsKsOoi04NNaO7/view?usp=sharing)
+
+&nbsp;
+
+
 ## Details
 
 **Date and time:** The 15th of January 2020, from 16h30 until 22h. <ins>Start of the first presentation at 17h</ins>.
@@ -116,6 +119,25 @@ For information about the previous edition, please refer to the [1st edition web
 &nbsp;
 
 **Contacts:** bitton@ircam.fr / goto.suguru@ms.geidai.ac.jp
+
+&nbsp;
+
+日時：2020年1月15日　16:30より22:00まで。 
+プレゼンテーションは17:00より開始。 
+場所: 東京芸術大学 音楽環境創造科　千住キャンパス　第一講義室
+〒120-0034 東京都足立区千住1-25-1 東京藝術大学千住校地
+「北千住駅」から徒歩5分（JR常磐線、東京メトロ千代田線、日比谷線、東武スカイツリーライン、つくばエクスプレス）
+http://www.geidai.ac.jp/access/senju
+
+お問い合わせ: 
+bitton@ircam.fr 
+
+＊プレゼンテーションは英語で行われます。
+＊＊この研究会の後、2月19日に東京芸術大学にて人工知能で作曲された作品のコンサートが行われる予定。
+＊＊＊前回の学会についてはこちらを参照して下さい。https://tcmml.github.io
+＊＊＊＊一般より参加ご希望は、事前にご連絡を下さい。
+Tel: 050-5525-2742
+Email: mce-office@ml.geidai.ac.jp
 
 
 <!---
