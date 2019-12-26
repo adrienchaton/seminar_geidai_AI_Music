@@ -23,7 +23,7 @@ Given this extensive corpus of research and technologies, that is constantly ref
 
 This pannel of presentations followed with Q&A is an invitation to assess some of the latest developments of AI applied to music and sound, both from a computational and a composer view. Engaging computer science and music practitioners to discuss the specific potentialities that are arising at the interesection of their fields and beyond.
 
-## 
+---
 
 人工知能と作曲2
 研究会
@@ -93,7 +93,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
 
-&nbsp;
+---
 
 [発表者](https://drive.google.com/file/d/1ebtbDYC9mbe5JxWUHgNsKsOoi04NNaO7/view?usp=sharing)
 
@@ -120,7 +120,7 @@ For information about the previous edition, please refer to the [1st edition web
 
 **Contacts:** bitton@ircam.fr / goto.suguru@ms.geidai.ac.jp
 
-## 
+---
 
 日時：2020年1月15日　16:30より22:00まで。 
 プレゼンテーションは17:00より開始。 
