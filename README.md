@@ -25,6 +25,8 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 &nbsp;
 
+## 
+
 人工知能と作曲2
 研究会
 東京芸術大学 千住キャンパス 
