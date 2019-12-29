@@ -97,7 +97,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 ---
 
-[発表者](https://drive.google.com/file/d/1ebtbDYC9mbe5JxWUHgNsKsOoi04NNaO7/view?usp=sharing)
+[発表者](https://drive.google.com/file/d/1vujokejwoqd8CToBvqGCn3F6B4vrs-Zo)
 
 &nbsp;
 
