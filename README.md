@@ -79,7 +79,7 @@ Titles, abstracts and schedule of the program are being prepared.
 
 * Daisuke Saito (The University of Tokyo)
 
-*Modeling vocals in music*
+*合唱音声信号処理に向けて --ソースフィルタモデルによるアプローチ--*
 
 * Naotake Masuda (The University of Tokyo)
 
