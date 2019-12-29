@@ -32,7 +32,9 @@ IRCAMで開発されたオーケストレーション補助ツール"オルキ�
 
 The Artificial Creative Intelligence and Data Science (ACIDS) team at IRCAM seeks to model musical creativity by targeting the properties of audio mixtures. This studies the intersection between symbol (score) and signal (audio) representations to understand and control the manifolds of musical information. After introducing the framework of modeling creativity through mathematical probabilities, we will discuss the question of disentangling manifolds of factors of audio variation. We will detail several models and musical pieces produced by our team, allowing to travel through topological spaces of audio, working with audio waveforms and scores alike and controlling audio synthesizers with our voice.
 
-**Daisuke Saito:** Modeling vocals in music.
+**Daisuke Saito:** 合唱音声信号処理に向けて --ソースフィルタモデルによるアプローチ--
+
+本発表では信号処理アプローチによる合唱音声のモデリングについて論じる。音声合成の品質は近年の深層学習技術の発展に伴って飛躍的に向上した。特にWaveNetに代表される波形のサンプル点を直接モデル化する手法により単一発声者に関しては自然音声と遜色のない音声が合成可能となった。一方で複数歌唱者の同時発声をモデル化するためには、発声者間の調和性など複数発声独自の要素 を考慮する必要がある。本発表ではソースフィルタモデルを出発点として現在我々が進めている合唱音声のモデリングについて紹介する。
 
 **Naotake Masuda:** 深層生成モデルとNormalizing Flowsによるシンセサイザーの制御
 
