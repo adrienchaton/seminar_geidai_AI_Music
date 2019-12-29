@@ -30,7 +30,9 @@ Currently, like most artificial intelligence has no physicality, most AI composi
 
 The Artificial Creative Intelligence and Data Science (ACIDS) team at IRCAM seeks to model musical creativity by targeting the properties of audio mixtures. This studies the intersection between symbol (score) and signal (audio) representations to understand and control the manifolds of musical information. After introducing the framework of modeling creativity through mathematical probabilities, we will discuss the question of disentangling manifolds of factors of audio variation. We will detail several models and musical pieces produced by our team, allowing to travel through topological spaces of audio, working with audio waveforms and scores alike and controlling audio synthesizers with our voice.
 
-**Daisuke Saito:** Modeling vocals in music.
+**Daisuke Saito:** Modeling of chorus singing by a signal processing approach.
+
+This presentation discusses modeling of chorus singing by a signal processing approach. The quality of synthesized speech has been improved drastically by the development of deep learning techniques. In  particular, direct modeling of sampled points such as WaveNet can generate as natural sounds as real ones. On the other hand, in order to model simultaneous singing from multiple singers, unique points such as harmony between the multiple singers should be taken into account. In  this presentation, our recent approaches to chorus singing based on source-filter model are introduced.
 
 **Naotake Masuda:** Audio Synthesizer Control using Deep Generative Models and Normalizing Flows.
 
