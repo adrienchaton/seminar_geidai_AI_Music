@@ -2,9 +2,7 @@
 render and export with https://md2pdf.netlify.com (https://www.markdowntopdf.com does not support japanese characters)
 --->
 
-## Japanese version of the program of the 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
-
-*Full translation is being prepared. This is a preliminary and unordered program of the seminar which will be completed and scheduled.*
+## Japanese abstracts of the 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
 
 **後藤英:** ディープ・ラーニングを用いた現代音楽の作曲技法
 
