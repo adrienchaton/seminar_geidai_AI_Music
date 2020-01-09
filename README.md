@@ -70,7 +70,7 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 *Audio Synthesizer Control using Deep Generative Models and Normalizing Flows*
 
 **19h-19h30:** Presentation 5
-* Sachi Tanihara (Tokyo University of the Arts)
+* Sachi Tanihara (Tokyo University of the Arts),
 *AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
 
 **19h30-19h45:** Break
