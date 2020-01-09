@@ -2,9 +2,7 @@
 render and export with https://www.markdowntopdf.com
 --->
 
-## English version of the program of the 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
-
-*This is a preliminary and unordered program of the seminar which will be completed and scheduled.*
+## English abstracts of the 2nd Seminar on Artificial Intelligence applied to Sound and Music Composition
 
 **Suguru Goto:** The Technique of Contemporary Music Composition with using Deep Learning.
 
