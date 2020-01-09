@@ -97,13 +97,13 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 &nbsp;
 
-[English abstracts](https://drive.google.com/file/d/1Rag9raq_TeIm0mKtdL7lWsTJA1Jhfy-W)
+[English abstracts](https://drive.google.com/file/d/15FvP8xUqbN-Tz2GWGy0hU34Tn56pZ3J0)
 
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
 
 ---
 
-[発表者](https://drive.google.com/file/d/1vujokejwoqd8CToBvqGCn3F6B4vrs-Zo)
+[発表者](https://drive.google.com/file/d/1t1ZzMLh5AqtDYEb_7n7vTx6hnaXfGBRU)
 
 &nbsp;
 
