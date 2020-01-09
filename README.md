@@ -112,7 +112,9 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 **Date and time:** The 15th of January 2020, from 16h30 until 22h. <ins>Start of the first presentation at 17h</ins>.
 
-**Place:** Tokyo University of the Arts, Department of Musical Creativity and the Environment, <ins>Senju Campus</ins>, The 1st conference room
+**Place:** Tokyo University of the Arts, Department of Musical Creativity and the Environment, <ins>Senju Campus</ins>, The 1st conference room.
+
+**On the 1st floor, when you enter the building of Senju Campus, there is an elevator at the front. You ought to go the right side and the Conference Room 1 in on the right side at the end of the corridor.**
 
 〒 120-0034, 1-25-1 Senju, Adachi-ku, Tokyo.
 
