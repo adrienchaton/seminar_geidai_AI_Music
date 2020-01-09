@@ -47,51 +47,57 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 
 ## Program
 
-Titles, abstracts and schedule of the program are being prepared.
+**This seminar is free, all interested persons are welcome to join regardless of institution or academic background. You may contact us, or just come on the day without prior notice or registration. We kindly ask you to please attend the whole seminar as far as possible.**
 
-**16h30:** Welcome coffee
+**16h30:** Doors open
 
-**17h-22h:** Presentations and Q&A with:
+**17h:** Start of the presentations and Q&A
 
+**17h-17h30:** Presentation 1
 * Suguru Goto (Tokyo University of the Arts)
-
 *The Technique of Contemporary Music Composition with using Deep Learning*
 
-* Jie Man (Tokyo University of the Arts)
-
-*Introduction of bach library in Max/MSP*
-
-* Shinae Kang (Tokyo University of the Arts)
-
-*A discussion of works created with the aid of AI and AI research trends for music*
-
+**17h30-18h:** Presentation 2
 * Jinwoong Kim (Tokyo University of the Arts)
-
 *Orchidea, An intelligent assisted orchestration tool*
 
-* Sachi Tanihara (Tokyo University of the Arts)
-
-*AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
-
+**18h-18h30:** Presentation 3
 * Philippe Esling (IRCAM/The University of Tokyo)
-
 *ACIDS - Artificial Creative Intelligence*
 
-* Daisuke Saito (The University of Tokyo)
-
-*Modeling of chorus singing by a signal processing approach*
-
+**18h30-19h:** Presentation 4
 * Naotake Masuda (The University of Tokyo)
-
 *Audio Synthesizer Control using Deep Generative Models and Normalizing Flows*
 
-* Adrien Bitton (IRCAM/The University of Tokyo)
+**19h-19h30:** Presentation 5
+* Sachi Tanihara (Tokyo University of the Arts)
+*AI composition and physicality --from Virtual Composer-Singer to Music Robots all over the world--*
 
+**19h30-19h45:** Break
+
+**19h45-20h15:** Presentation 6
+* Daisuke Saito (The University of Tokyo)
+*Modeling of chorus singing by a signal processing approach*
+
+**20h15-20h45:** Presentation 7
+* Jie Man (Tokyo University of the Arts)
+*Introduction of bach library in Max/MSP*
+
+**20h45-21h15:** Presentation 8
+* Adrien Bitton (IRCAM/The University of Tokyo)
 *Neural granular sound synthesis for raw waveform generation*
+
+**21h15-21h45:** Presentation 9
+* Shinae Kang (Tokyo University of the Arts)
+*A discussion of works created with the aid of AI and AI research trends for music*
+
+**22h:** End of the seminar
+
+
 
 &nbsp;
 
-[English program (under preparation)](https://drive.google.com/file/d/1Rag9raq_TeIm0mKtdL7lWsTJA1Jhfy-W)
+[English abstracts](https://drive.google.com/file/d/1Rag9raq_TeIm0mKtdL7lWsTJA1Jhfy-W)
 
 [Presentation materials](https://github.com/adrienchaton/seminar_geidai_AI_Music/tree/master/documents) will be provided prior to the start of the seminar.
 
