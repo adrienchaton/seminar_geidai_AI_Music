@@ -54,19 +54,19 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 **17h:** Start of the presentations and Q&A
 
 **17h-17h30:** Presentation 1
-* Suguru Goto (Tokyo University of the Arts)
+* Suguru Goto (Tokyo University of the Arts),
 *The Technique of Contemporary Music Composition with using Deep Learning*
 
 **17h30-18h:** Presentation 2
-* Jinwoong Kim (Tokyo University of the Arts)
+* Jinwoong Kim (Tokyo University of the Arts),
 *Orchidea, An intelligent assisted orchestration tool*
 
 **18h-18h30:** Presentation 3
-* Philippe Esling (IRCAM/The University of Tokyo)
+* Philippe Esling (IRCAM/The University of Tokyo),
 *ACIDS - Artificial Creative Intelligence*
 
 **18h30-19h:** Presentation 4
-* Naotake Masuda (The University of Tokyo)
+* Naotake Masuda (The University of Tokyo),
 *Audio Synthesizer Control using Deep Generative Models and Normalizing Flows*
 
 **19h-19h30:** Presentation 5
@@ -76,19 +76,19 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 **19h30-19h45:** Break
 
 **19h45-20h15:** Presentation 6
-* Daisuke Saito (The University of Tokyo)
+* Daisuke Saito (The University of Tokyo),
 *Modeling of chorus singing by a signal processing approach*
 
 **20h15-20h45:** Presentation 7
-* Jie Man (Tokyo University of the Arts)
+* Jie Man (Tokyo University of the Arts),
 *Introduction of bach library in Max/MSP*
 
 **20h45-21h15:** Presentation 8
-* Adrien Bitton (IRCAM/The University of Tokyo)
+* Adrien Bitton (IRCAM/The University of Tokyo),
 *Neural granular sound synthesis for raw waveform generation*
 
 **21h15-21h45:** Presentation 9
-* Shinae Kang (Tokyo University of the Arts)
+* Shinae Kang (Tokyo University of the Arts),
 *A discussion of works created with the aid of AI and AI research trends for music*
 
 **22h:** End of the seminar
