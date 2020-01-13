@@ -26,9 +26,9 @@ IRCAMで開発されたオーケストレーション補助ツール"オルキ�
 しかし昨今、作曲する知能と身体の両者を備えた「AI音楽身体エージェント」とでも呼べる研究が世界で進展しつつある。
 そこで、「AI作曲と身体性」と題し、世界のAI作曲演奏ロボットなど、作曲する知能と身体とを結ぶ人工知能の可能性についてお話ししたい。
 
-**Philippe Esling:** ACIDS - Artificial Creative Intelligence
+**Philippe Esling:** ACIDS-人工創造知能
 
-The Artificial Creative Intelligence and Data Science (ACIDS) team at IRCAM seeks to model musical creativity by targeting the properties of audio mixtures. This studies the intersection between symbol (score) and signal (audio) representations to understand and control the manifolds of musical information. After introducing the framework of modeling creativity through mathematical probabilities, we will discuss the question of disentangling manifolds of factors of audio variation. We will detail several models and musical pieces produced by our team, allowing to travel through topological spaces of audio, working with audio waveforms and scores alike and controlling audio synthesizers with our voice.
+IRCAMの人工創造知能とデータサイエンス（ACIDS）チームは、オーディオミクスチャーの特性に的を当てて音楽の創造性をモデル化しようとしており、音楽情報の多様性を理解して制御するために、記号（スコア）とシグナル（オーディオ）の表現の間にある横断領域を研究している。数学的な確率による創造性モデルの枠組みを紹介したあとは、多様なオーディオバリエーションの要素をどう扱って解くのかという問いについてディスカッションをしたい。音の位相空間を移動させ、音波形とスコアを操作させ、自分たちの声を用いてオーディオシンセサイザーを制御させてチームで作ったモデルと音楽作品について、幾つか詳しく説明する。
 
 **Daisuke Saito:** 合唱音声信号処理に向けて --ソースフィルタモデルによるアプローチ--
 
@@ -38,6 +38,6 @@ The Artificial Creative Intelligence and Data Science (ACIDS) team at IRCAM seek
 
 シンセサイザーは現代の音楽制作において欠かせないツールとなっている。一方で、シンセサイザーはパラメータが多く、パラメータ間の関係も複雑である。そのため、シンセサイザーのによって思い通りの音を出すことは困難である。本研究ではより効率的にパラメータの推定を行い、直感的なシンセサイザーの操作を可能にする、変分オートエンコーダ(VAE)ベースのモデルを提案する。最後に、複数のVSTシンセサイザーの制御についての結果を示し、様々なシンセサイザーのモデリングにおける課題について論じる。
 
-**Adrien Bitton:** Neural granular sound synthesis for raw waveform generation.
+**Adrien Bitton:** 生波形生成のためのニューラルグラニュラーサウンド合成。
 
-Granular synthesis is a broadly used technique for sound synthesis. Its underlying concepts relate to generative neural networks, which can implement it and address some traditional limitations of the technique. It is an avenue of research for raw waveform generation that has not been yet studied in the machine learning community. Introducing a Variational Auto-Encoder model suited to this extent, we will discuss the interpretability of its components and report experiments for musical note and drum generation as well as texture synthesis and non-musical audio generation.
+グラニュラーシンセシスは、サウンドシンセシスに広く使用されている手法である。その基礎となる概念は生成ニューラルネットワークに関連しており、実装でき且つこの手法にある従来の技術的限界を扱っている。機械学習のコミュニティではまだ研究されていない、生波形生成の研究方法である。この領域に適したVariation Auto-Encoderモデルを紹介し、その構成部分の解釈可能性について話し合い、音符およびドラム生成、テクスチャー合成、非音楽オーディオ生成の実験について報告する。
