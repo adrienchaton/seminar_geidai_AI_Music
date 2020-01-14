@@ -30,7 +30,7 @@ This pannel of presentations followed with Q&A is an invitation to assess some o
 人工知能と作曲2
 研究会
 東京芸術大学 千住キャンパス 
-2020年1月19日
+2020年1月15日
 
 コラボレーション：東京大学、IRCAM
 
