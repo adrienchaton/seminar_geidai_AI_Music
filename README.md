@@ -3,8 +3,11 @@
 Tokyo University of the Arts is organizing a concert as a continuation of the seminar. Please, feel invited to join and find all details on the following page: http://mce.geidai.ac.jp/topics/l-ai-ve-electronicspace-concert
 
 February 19,2020, Open 18:00   Start 19:00
+
 Tokyo University of the Arts, Department of Musical Creativity and the Environment
+
 Senju Campus, 7 Hall.
+
 1-25-1 Senju, Adachi-ku, Tokyo 120-0034
 
 
