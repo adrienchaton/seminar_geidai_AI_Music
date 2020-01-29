@@ -1,6 +1,6 @@
 ## Follow-up concert announcement
 
-Tokyo University of the Arts is organizing a concert as a continuation of the seminar. Please, feel invited to join and find all details on the following page: http://mce.geidai.ac.jp/topics/l-ai-ve-electronicspace-concert
+Tokyo University of the Arts is organizing a concert as a continuation of the seminar. Please, feel invited to join and find all details on the following page: [concert announcement](http://mce.geidai.ac.jp/topics/l-ai-ve-electronicspace-concert)
 
 February 19,2020, Open 18:00   Start 19:00
 
